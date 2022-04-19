@@ -1,0 +1,10 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "eris": "^0.15.1"
+  }
+}
